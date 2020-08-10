@@ -1,5 +1,5 @@
 ---
-title: "Green infrastructure with respect to gentrification and displacement"
+title: "Green Infrastructure with respect to Gentrification and Displacement (for the purpose of interal discussion, i.e., missing citation)"
 author: "Yohan Min"
 
 date: "Updated `r Sys.Date()`"
@@ -32,12 +32,19 @@ output:
 
 <!-- Packages -->
 
-# Gentrification and displacement {#index}
+# Summary {#index}
 
 Predictive variables for gentrification and displacement are examined to answer questions: 
 
 (1) Will improvements to a neighborhood – through green infrastructure or creating a public open space – cause the area to gentrify and displace current residents?
+
+> It depends on how to define gentrification. In general, gentrication caused by neighborhood change leads to involuntary displacement of residents. Thus, it is important to know what factors change neighborhood condition. In addition, what kind of infrastructure would be installed, is also another factor to the degree of neighborhood change. It has been known that having green infrastruture positively affects living quality of the neighborhood, thus increases the value of real estate aroud. 
+
+> To answer the question, it needs to be identified which neighborhood the green infrastructure would be located in. For example, based on the caterogies described in "The uprooted project", if the infrastructure is located in early type 1 tracts, where mostly low income households are with high increase of appreciation of housing market, housing the infrastructure in the tract would expedite the appreciation. On the other hand, if the infrastructure is located in early type 2 tracts, where demographic change is going on with low increase of appreciation, having the infrastructure would be a seed to housing market change. 
+
 (2) What causes areas to gentrify? Is it just a regional real estate function? Or its improvements like upzoning, bringing in light rail etc.?
+
+> In gerneral, investment regarding economic activities such as housing market, business, infrastructure, etc. leads to demographic and built environmental changes, which are the factors for gentrification, displacement and exclusion. Mostly accepted factors to gentrification, however, seem to be income and education. And eviction could be another factor significant to gentrification. For example a study performed comparison of different models as there are many models to identify relevant variables to gentrification. While those variables are different depending on models, however, there was one area where the models agreed in one of papers: all had a disproportionately greater share of evictions in at-risk areas than total households in these areas. Only two variables — income and education — were included in all four methods. Details are below. 
 
 
 ## Definition of gentrification 
@@ -75,7 +82,14 @@ Different data inputs create different analysis outputs. For example, a study ab
 
 ![](seattle2.jpg)
 
-On the otherhand, a study about Indianapolis identified gentrifying tracts - low income with significant growth in home values and education, not gentrifying tracts - low income with no growth, and not eligible tracts - mid-upper income tracts. 
+On the otherhand, a study about Indianapolis identified gentrifying tracts: 
+
+- Low income with significant growth in home values and education, not gentrifying tracts 
+- Low income with no growth, and not eligible tracts 
+- Mid-upper income tracts
+
+![](indi.png)
+  
 
 Furthermore, a study about Seattle used opportunity index, which identifies the level of economic opportunity in each neighborhood based on public data on education, access to jobs, transit availability, presence of civic infrastructure, and proximity to health facilities and healthy food. Combining displacement and opportunity ratings, Seattle categorized neighborhoods in four strata: high displacement risk/low access to opportunity, high displacement risk/high access to opportunity, low displacement risk/low access to opportunity, and low displacement risk/high access to opportunity.
 
@@ -83,7 +97,7 @@ Furthermore, a study about Seattle used opportunity index, which identifies the 
 
 ![](seattle1.png)
 
-In general, based on the income level and changes of demographic and physical variables, gentrification could be identified as a level of being at risk and ongoing. 
+In general, based on the income level and changes of demographic and physical variables, gentrification could be identified with a level of being at risk and ongoing gentrification. 
 
 * Low income - no change, at risk (having development factors), ongoing gentrification(loss of low income households)
 
@@ -99,9 +113,6 @@ A study specifying the above devided the patterns into six categories: susceptib
 
 Susceptible tracts have not experienced demographic change, and are in areas adjacent to ones showing signs of housing market appreciation. Early: Type 1 tracts have not yet experienced demographic change but are experiencing an accelerating market. Early: Type 2 tracts are the other way around: they have experienced demographic change but are not yet accelerating and instead are next to an accelerating or appreciating tract. Dynamic tracts have experienced demographic change and are experiencing accelerating market conditions, whereas Late tracts have also experienced demographic change but are in an appreciated housing market state. Finally, among non-vulnerable tracts, Continued Loss tracts, in addition to having recently experienced an increase in their white and college educated populations, are in an appreciated market condition.
 
-### Impact of green infrastructure on displacement 
-
-It has been known having green infrastruture positively affects living quality of the neighborhood, thus increases the value of real estate aroud. 
 
 ### Challenges 
 
@@ -137,6 +148,8 @@ Infrasturcture is also playing a significant role for gentrification. A study ma
 ### Mapping 
 
 A study found mapping based on parcel level rather than tracts is preferred. Furthermore, density mapping such as kernel density version of the tax parcel maps were found to be preferred.
+
+![](den.jpeg)
 
 
 # Reference 
