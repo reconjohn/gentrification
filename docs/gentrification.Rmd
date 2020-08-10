@@ -116,7 +116,7 @@ Susceptible tracts have not experienced demographic change, and are in areas adj
 
 ### Challenges 
 
-There is a study comparing four methods to map gentrification. They showed differnt analysis outputs. However, there was one area where the models agreed: all had a disproportionately greater share of evictions in at-risk areas than total households in these areas. Only two variables — income and education — were included in all four methods.
+There is a study comparing four methods of mapping gentrification. They showed different analysis outputs that the result would be different depending upon which method used. However, there was one area where the models agreed: all had a disproportionately greater share of evictions in at-risk areas than total households in these areas. Only two variables — income and education — were included in all four methods.
 
 ![](combine.jpeg)
 
@@ -127,12 +127,12 @@ It is necessary to map gentrification area and areas with risks to prevent displ
 
 Mapping gentrification could be helpful in terms of the current status quo and predictive manner. 
 
-* Gentrification map - For example, Los Angeles Index of Neighborhood Change, a map that allows users to explore the degree to which zip codes in Los Angeles experienced gentrification between 2000 and 2014. 
+* Gentrification map - Los Angeles Index of Neighborhood Change, a map that allows users to explore the degree to which zip codes in Los Angeles experienced gentrification between 2000 and 2014. 
 
 * Risk (prediction) map - Los Angeles Index of Displacement Pressure, which repurposed much of the data from the neighborhood change project in addition to information from ESRI Community Analyst in order to predict neighborhoods where displacement was likely to occur.
 
 
-Infrasturcture is also playing a significant role for gentrification. A study mapped neighborhood change and gentrification in the purple line corridor (http://knaaptime.com/plcc-dashboard/gentrification.html).
+Infrasturcture is also playing a significant role in gentrification. A study mapped neighborhood change and gentrification in the purple line corridor.
 
 * Blue: High income tracts
 
@@ -147,7 +147,7 @@ Infrasturcture is also playing a significant role for gentrification. A study ma
 
 ### Mapping 
 
-A study found mapping based on parcel level rather than tracts is preferred. Furthermore, density mapping such as kernel density version of the tax parcel maps were found to be preferred.
+A study found mapping based on smaller scale such as parcel level rather than tracts is more accurate and preferred. Furthermore, density mapping such as kernel density version of the tax parcel maps were found to be preferred to point and census tract maps. 
 
 ![](den.jpeg)
 
