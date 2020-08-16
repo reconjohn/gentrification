@@ -1,37 +1,20 @@
 ---
 title: "Green Infrastructure with respect to Gentrification and Displacement (for the purpose of interal discussion, i.e., missing citation)"
 author: "Yohan Min"
-
 date: "Updated `r Sys.Date()`"
-
 output:
-  bookdown::gitbook:
-    config:
-      toc:
-        collapse: no
-        scroll_highlight: yes
-        before: null
-        after: null
-      toolbar:
-        position: fixed
-      edit : null
-      download: yes
-      search: yes
-      fontsettings:
-        theme: white
-        family: sans
-        size: 2
-    sharing:
-      facebook: yes
-      twitter: yes
-      google: no
-      linkedin: no
-    all: ['facebook', 'google', 'twitter', 'linkedin']
-
+  word_document: default
+  html_document:
+    df_print: paged
+    keep_md: yes
+  pdf_document: default
+endnote: no
+header-includes:
+- \usepackage{setspace}\doublespace
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage[fontsize=12pt]{scrextend}
 ---
-
-<!-- Packages -->
-
 # Summary {#index}
 
 Predictive variables for gentrification and displacement are examined to answer questions: 
@@ -265,5 +248,3 @@ Netusil, N. R. (2013). “Urban environmental amenities and property values: Doe
 Netusil, N. R., Levin, Z., Shandas, V., and Hart, T. (2014). “Valuing green infrastructure in Portland, Oregon.” Landscape and Urban Planning, 124, 14–21.
 
 O’Neill, P. (2013). “A new word for NYC: bioswales.” City Atlas: New York.
-
-
