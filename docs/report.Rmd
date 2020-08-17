@@ -1,5 +1,5 @@
 ---
-title: "Green Infrastructure with respect to Gentrification and Displacement (for the purpose of interal discussion, i.e., missing citation)"
+title: "Green Infrastructure with respect to Gentrification and Displacement"
 author: "Yohan Min"
 date: "Updated `r Sys.Date()`"
 output:
@@ -21,38 +21,38 @@ Predictive variables for gentrification and displacement are examined to answer 
 
 (1) Will improvements to a neighborhood – through green infrastructure or creating a public open space – cause the area to gentrify and displace current residents?
 
-> It depends on how to define gentrification. In general, gentrication caused by neighborhood change leads to involuntary displacement of residents. Thus, it is important to know what factors change neighborhood condition. In addition, what kind of infrastructure would be installed, is also another factor to the degree of neighborhood change. It has been known that having green infrastruture positively affects living quality of the neighborhood, thus increases the value of real estate aroud. 
+* It depends on how to define gentrification. In general, gentrification caused by neighborhood change leads to involuntary displacement of residents. Thus, it is important to know what factors change neighborhood condition. In addition, what kind of infrastructure would be installed, is also another factor to the degree of neighborhood change. It has been known that having green infrastructure positively affects living quality of the neighborhood, thus increases the value of real estate around. 
 
-> To answer the question, it needs to be identified which neighborhood the green infrastructure would be located in. For example, based on the caterogies described in "The uprooted project", if the infrastructure is located in early type 1 tracts, where mostly low income households are with high increase of appreciation of housing market, housing the infrastructure in the tract would expedite the appreciation. On the other hand, if the infrastructure is located in early type 2 tracts, where demographic change is going on with low increase of appreciation, having the infrastructure would be a seed to housing market change. 
+* To answer the question, it needs to be identified which neighborhood the green infrastructure would be located in. For example, based on the categories described in "The uprooted project", if the infrastructure is located in early type 1 tracts, where mostly low income households are with high increase of appreciation of housing market, housing the infrastructure in the tract would expedite the appreciation. On the other hand, if the infrastructure is located in early type 2 tracts, where demographic change is going on with low increase of appreciation, having the infrastructure would be a seed to housing market change. 
 
 (2) What causes areas to gentrify? Is it just a regional real estate function? Or its improvements like upzoning, bringing in light rail etc.?
 
-> In general, investment regarding economic activities such as housing market, business, infrastructure, etc. leads to demographic and built environmental changes, which are the factors for gentrification, displacement and exclusion. Mostly accepted factors to gentrification, however, seem to be income and education. And eviction could be another factor significant to gentrification. For example a study performed comparison of different models as there are many models to identify relevant variables to gentrification. While those variables are different depending on models, however, there was one area where the models agreed: all had a disproportionately greater share of evictions in at-risk areas than total households in these areas. Only two variables — income and education — were included in all four methods. Details are below. 
+* In general, investment regarding economic activities such as housing market, business, infrastructure, etc. leads to demographic and built environmental changes, which are the factors for gentrification, displacement and exclusion. Mostly accepted factors to gentrification, however, seem to be income and education. And eviction could be another factor significant to gentrification. For example a study performed comparison of four different methods as there are many models to identify relevant variables to gentrification. While those variables are different depending on models, however, there was one variable which the models agreed that all at-risk area had a greater share of evictions. Furthermore, only two variables (i.e., income and education) were shared in all four methods. 
 
-(3) How much has green infrastructure been REPORTED to increase a property’s value?
+(3) How much has green infrastructure (specially bioswales) been REPORTED to increase a property’s value?
 
-> Many studies have mostly found green infrastructure has positive impacts on property values. Specially bioswales are also known to improve local property values (Anderson, J., 2018); the neighborhoods will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales (O'Neill, P., 2013). 
+* Many studies have found green infrastructure has positive impacts on property values. Specially bioswales are also known to improve local property values (Anderson, 2018). O'Neill (2013) mentioned that "the neighborhoods will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales."  
 
-> On the other hand, Netusil et al. (2014) found there is a negative impact on a property's sale price as distance from the nearest green infrastructure increases while bioswales are not significant. 
+* On the other hand, Netusil et al. (2014) found there is a negative impact on a property's sale price as distance from the nearest green infrastructure increases while bioswales are not significant. 
 
-> So in conclusion, regarding bioswales, the impact on property values would be either not significant or positive while it is not clear how much the impact would be depending upon the context. 
+* In conclusion, regarding bioswales, the impact on property values would be either not significant or positive while it is not clear how much the impact would be depending upon the context. 
 
 # Displacement
 
 ## Definition of gentrification 
 
-- Neighborhood change - Broad term used to capture the full spectrum of economic, racial or ethnic, and structural changes in a geographic area, both positive and negative. Neighborhood revitalization is a related term that implies change viewed as positive, usually accompanied by new public or private investment.
+- Neighborhood change - "Broad term used to capture the full spectrum of economic, racial or ethnic, and structural changes in a geographic area, both positive and negative. Neighborhood revitalization is a related term that implies change viewed as positive, usually accompanied by new public or private investment" (Cohen and Pettit, 2019).
 
-- Gentrification - Transformation of areas historically inhabited by marginalized groups, usually racial or ethnic or class groups, into areas used by the dominant class or racial or ethnic group. Usually characterized by increased investments in areas that have seen long-term disinvestment.
+- Gentrification - "Transformation of areas historically inhabited by marginalized groups, usually racial or ethnic or class groups, into areas used by the dominant class or racial or ethnic group. Usually characterized by increased investments in areas that have seen long-term disinvestment" (Cohen and Pettit, 2019).
 
-- Displacement - Forced or involuntary household movement from place of residence. Usually expanded beyond formal forced moves such as evictions to include unaffordable rents or poor living conditions. Displacement is distinct from residential mobility, which includes voluntary household movement.
+- Displacement - "Forced or involuntary household movement from place of residence. Usually expanded beyond formal forced moves such as evictions to include unaffordable rents or poor living conditions. Displacement is distinct from residential mobility, which includes voluntary household movement" (Cohen and Pettit, 2019).
 
 
 ## Gentrification indicators (causes)
 
-There are the historically indications of displacement, such as transportation investment, percent of rent-burdened households, and availability of affordable housing. Those are divided into two categories: (1) demographic variables, and (2) physical variables. 
+There are the historical indications of displacement, such as "transportation investment, percent of rent-burdened households, and availability of affordable housing" (Bousquet, 2017). Those are divided into two categories: (1) demographic variables, and (2) physical variables. 
 
-Gentrification patterns may vary based on the definition, spatial unit, and variables used to identify gentrification. Combining demographic and physical factors drawing on both the physical and sociodemographic variables and combining qualitative and quantitative methods to produce a more holistic consideration of complex socio-spatial phenomena (i.e., gentrification) would be helpful.
+Yonto and Schuch (2020) mentioned that "gentrification patterns may vary based on the definition, spatial unit, and variables used to identify gentrification. Combining demographic and physical factors drawing on both the physical and sociodemographic variables and combining qualitative and quantitative methods to produce a more holistic consideration of complex socio-spatial phenomena (i.e., gentrification) would be helpful."
 
 ### Demographic variables
 
@@ -65,14 +65,14 @@ Gentrification patterns may vary based on the definition, spatial unit, and vari
 * Housing markets - housing type, home value, sales, rents, vacant, blighted, public and subsidized, evictions 
 * Economic status - business activities, building and demolition permits, capital investments
 * Neighborhood condition - transit use, crime, safety 
-* Housing market change - accelerating (low present home value, high recent appreciation since 2000), appreciated (previous low home value, high present home value, high appreciation since 1990), and adjacent (low home value touching a track with high present home value or high appreciation since 2000)
+* Housing market change - accelerating (low present home value, high recent appreciation since 2000), appreciated (previous low home value, high present home value, high appreciation since 1990), and adjacent (low home value touching a track with high present home value or high appreciation since 2000) (“Gentrification Mapping Methodology," 2020)
 
 
 ## Categorizing 
 
-Different data inputs create different analysis outputs. For example, a study about Seattle identified 10,000 census tracts in 100 large cities that had incomes below the area median in 2000 — these tracts were deemed “gentrifiable.” These tracts experienced the biggest increase in the percentage of college-educated residents by the 2010-2014 period. The tracts that were in the top 10% for this increase were identified as gentrifying. 
+Different data inputs create different analysis outputs. For example, a study about Seattle identified "10,000 census tracts in 100 large cities that had incomes below the area median in 2000 — these tracts were deemed “gentrifiable.” These tracts experienced the biggest increase in the percentage of college-educated residents by the 2010-2014 period. The tracts that were in the top 10% for this increase were identified as gentrifying." (“Seattle is the third," 2019). 
 
-![](seattle2.jpg)
+![Source: “Seattle is the third," 2019 ](seattle2.jpg)
 
 On the other hand, a study about Indianapolis identified gentrifying tracts: 
 
@@ -80,14 +80,14 @@ On the other hand, a study about Indianapolis identified gentrifying tracts:
 - Low income with no growth, and not eligible tracts 
 - Mid-upper income tracts
 
-![](indi.png)
+![Source: “Indianapolis Gentrification Maps and Data.” 2015](indi.png)
   
 
-Furthermore, a study about Seattle used opportunity index, which identifies the level of economic opportunity in each neighborhood based on public data on education, access to jobs, transit availability, presence of civic infrastructure, and proximity to health facilities and healthy food. Combining displacement and opportunity ratings, Seattle categorized neighborhoods in four strata: high displacement risk/low access to opportunity, high displacement risk/high access to opportunity, low displacement risk/low access to opportunity, and low displacement risk/high access to opportunity.
+Furthermore, a study about Seattle used opportunity index, "which identifies the level of economic opportunity in each neighborhood based on public data on education, access to jobs, transit availability, presence of civic infrastructure, and proximity to health facilities and healthy food. Combining displacement and opportunity ratings, Seattle categorized neighborhoods in four strata: high displacement risk/low access to opportunity, high displacement risk/high access to opportunity, low displacement risk/low access to opportunity, and low displacement risk/high access to opportunity." (“Where is Gentrification Happening,” 2017).
 
-![](seattle.png)
+![Source: “Where is Gentrification Happening,” 2017](seattle.png)
 
-![](seattle1.png)
+![Source: “Where is Gentrification Happening,” 2017](seattle1.png)
 
 In general, based on the income level and changes of demographic and physical variables, gentrification could be identified with a level of being at risk and ongoing gentrification. 
 
@@ -95,82 +95,80 @@ In general, based on the income level and changes of demographic and physical va
 
 * Moderate and high income - advanced gentrification, no change, at risk, ongoing, advanced exclusion (low income migration rate) 
 
-![](ca.jpg)
+![Source: “Urban Displacement San Francisco Map | Urban Displacement Project,” 2020](ca.jpg)
 
 A study specifying the above divided the patterns into six categories: susceptible, early type 1, type 2, dynamic, late and Continued Loss tracts ( non-vulnerable tracts) based on demographic change, real estate value, and appreciation. 
 
-![](gent1.png)
+![Source: "Gentrification Mapping Methodology,” 2020](gent1.png)
 
-![](texas.jpg)
+![Source: “Urban Displacement Austin Map | Urban Displacement Project,” 2020](texas.jpg)
 
-Susceptible tracts have not experienced demographic change, and are in areas adjacent to ones showing signs of housing market appreciation. Early: Type 1 tracts have not yet experienced demographic change but are experiencing an accelerating market. Early: Type 2 tracts are the other way around: they have experienced demographic change but are not yet accelerating and instead are next to an accelerating or appreciating tract. Dynamic tracts have experienced demographic change and are experiencing accelerating market conditions, whereas Late tracts have also experienced demographic change but are in an appreciated housing market state. Finally, among non-vulnerable tracts, Continued Loss tracts, in addition to having recently experienced an increase in their white and college educated populations, are in an appreciated market condition.
+“Gentrification Mapping Methodology” (2020) mentioned, "Susceptible tracts have not experienced demographic change, and are in areas adjacent to ones showing signs of housing market appreciation. Early: Type 1 tracts have not yet experienced demographic change but are experiencing an accelerating market. Early: Type 2 tracts are the other way around: they have experienced demographic change but are not yet accelerating and instead are next to an accelerating or appreciating tract. Dynamic tracts have experienced demographic change and are experiencing accelerating market conditions, whereas Late tracts have also experienced demographic change but are in an appreciated housing market state. Finally, among non-vulnerable tracts, Continued Loss tracts, in addition to having recently experienced an increase in their white and college educated populations, are in an appreciated market condition."
 
 
 ### Challenges 
 
-There is a study comparing four methods of mapping gentrification. They showed different analysis outputs that the result would be different depending upon which method used. However, there was one area where the models agreed: all had a disproportionately greater share of evictions in at-risk areas than total households in these areas. Only two variables — income and education — were included in all four methods.
+There is a study comparing four methods of mapping gentrification. They showed different analysis outputs that the result would be different depending upon which method used. However, there was one variable which the models agreed that all at-risk area had a greater share of evictions. Furthermore, only two variables (i.e., income and education) were shared in all four methods. 
 
-![](combine.jpeg)
+![Source: Preis et al., 2020](combine.jpeg)
 
 
 ## Presentation of gentrification
 
-It is necessary to map gentrification area and areas with risks to prevent displacement. The i-team from CA used gentrification indices to assist with site selection for its Rent Stabilization Ordinance (RSO) outreach campaign, a marketing and awareness initiative to help tenants and landlords better understand and access city resources that can help longtime residents stay in their homes during periods of rising prices.
+It is necessary to map gentrification area and areas with risks to prevent displacement. The i-team from CA used "gentrification indices to assist with site selection for its Rent Stabilization Ordinance (RSO) outreach campaign, a marketing and awareness initiative to help tenants and landlords better understand and access city resources that can help longtime residents stay in their homes during periods of rising prices" (“Where is Gentrification Happening,” 2017). 
 
 Mapping gentrification could be helpful in terms of the current status quo and predictive manner. 
 
-* Gentrification map - Los Angeles Index of Neighborhood Change, a map that allows users to explore the degree to which zip codes in Los Angeles experienced gentrification between 2000 and 2014. 
+* Gentrification map - "Los Angeles Index of Neighborhood Change, a map that allows users to explore the degree to which zip codes in Los Angeles experienced gentrification between 2000 and 2014" (“Where is Gentrification Happening,” 2017). 
 
-* Risk (prediction) map - Los Angeles Index of Displacement Pressure, which repurposed much of the data from the neighborhood change project in addition to information from ESRI Community Analyst in order to predict neighborhoods where displacement was likely to occur.
+* Risk (prediction) map - "Los Angeles Index of Displacement Pressure, which repurposed much of the data from the neighborhood change project in addition to information from ESRI Community Analyst in order to predict neighborhoods where displacement was likely to occur" (“Where is Gentrification Happening,” 2017).
 
 
 Infrastructure is also playing a significant role in gentrification. A study mapped neighborhood change and gentrification in the purple line corridor.
 
 * Blue: High income tracts
 
-* Green: Gentrification - light, medium and dark based on income increase - defined as an increase in home prices, and the population’s education level, that was greater than the increases that occurred in the region as a whole. This map uses this methodology, but breaks down the areas that pass the gentrification test into three categories. 
+* Green: Gentrification - "light, medium and dark based on income increase - defined as an increase in home prices, and the population’s education level, that was greater than the increases that occurred in the region as a whole. This map uses this methodology, but breaks down the areas that pass the gentrification test into three categories" (“Purple Line Corridor,” 2020). 
 
-* Red: Risk of gentrification - not yet gentrification, but likely to happen - these areas are at risk for accelerated increases in home prices and an influx of educated residents because they have seen, relative to other areas: greater increases in population, the proportion of the population that is white, median household income, education levels, home values, the number of housing units, rent prices, the home ownership rate, and decreases in the poverty rate. Areas that have good accessibility to jobs, both by automobile and transit, are at a higher risk to gentrify, as are areas that are within one mile of a rail-transit station, including new Purple Line stations.
+* Red: Risk of gentrification - not yet gentrification, but likely to happen - "these areas are at risk for accelerated increases in home prices and an influx of educated residents because they have seen, relative to other areas: greater increases in population, the proportion of the population that is white, median household income, education levels, home values, the number of housing units, rent prices, the home ownership rate, and decreases in the poverty rate. Areas that have good accessibility to jobs, both by automobile and transit, are at a higher risk to gentrify, as are areas that are within one mile of a rail-transit station, including new Purple Line stations" (“Purple Line Corridor,” 2020).
 
-![](trans.png)
+![Source: “Purple Line Corridor,” 2020](trans.png)
 
-![](pur.png)
+![Source: “Purple Line Corridor,” 2020](pur.png)
 
 
 ### Mapping 
 
 A study found mapping based on smaller scale such as parcel level rather than tracts is more accurate and preferred. Furthermore, density mapping such as kernel density version of the tax parcel maps were found to be preferred to point and census tract maps. 
 
-![](den.jpeg)
+![Source: Yonto and Schuch, 2020](den.jpeg)
 
 # Impact of green infrastructure on property values
 
-Many studies have mostly found green infrastructure has positive impacts on property values: (1) transferring water resource to public ownership will increase a property’s sale price by 0.0353% for a wetland and 0.1177% for a stream (Netusil, N. R., 2013); (2) properties on tree-lined streets are valued at up to 30% more than those on streets without trees (Global Designing Cities Initiative); (3) realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value (Burden, D, 2006); (4) 25% of survey participants see increasing property values; (5) marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned (Irwin, E. G., 2002); (6) the effect of neighborhood association-owned forest and water feature was approximately 8% at the mean sale price with a value of \$14488 for association-owned forests, and \$14681 for a water feature (Bowman et al., 2012); and (7) increase in home price is approximately \$18 for every acre of public park within walking distance (Bowman et al., 2012). 
+Many studies have found green infrastructure has positive impacts on property values: (1) "transferring water resource to public ownership will increase a property’s sale price by 0.0353% for a wetland and 0.1177% for a stream" (Netusil, 2013); (2) "properties on tree-lined streets are valued at up to 30% more than those on streets without trees" ("Benefits of Green Infrastructure”); (3) "realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value" (Burden, 2006); (4) 25% of survey participants see increasing property values (Mell et al., 2013); (5) "marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002); (6) "the effect of neighborhood association-owned forest and water feature was approximately 8% at the mean sale price with a value of \$14488 for association-owned forests, and \$14681 for a water feature" (Bowman et al., 2012); and (7) "increase in home price is approximately \$18 for every acre of public park within walking distance" (Bowman et al., 2012). 
 
-Specially bioswales are also known to improve local property values (Anderson, J., 2018); the neighborhoods will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales (O'Neill, P., 2013). 
+Specially bioswales are also known to improve local property values (Anderson, J., 2018). O'Neill (2013) mentioned that "the neighborhoods will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales." 
 
 On the other hand, Netusil et al. (2014) found there is a negative impact on a property's sale price as distance from the nearest green infrastructure increases while bioswales are not significant.
 
 
-## Positive
+## Positive impacts on property values 
 
-Using the spatial lag model coefficients, we estimate that transferring 1000 square feet of a privately owned water resource to public ownership will increase a property's sale price by 0.0353% for a wetland and 0.1177% for a stream. These values can be used to calculate a lower-bound benefit estimate for an acquisition by creating a ¼ mile buffer around single-family residential properties and determining, for a specific site, how many of those buffers overlap the water resource (Netusil, N. R., 2013).
+Netusil (2013) mentioned, "Using the spatial lag model coefficients...transferring 1000 square feet of a privately owned water resource to public ownership will increase a property's sale price by 0.0353% for a wetland and 0.1177% for a stream. These values can be used to calculate a lower-bound benefit estimate for an acquisition by creating a ¼ mile buffer around single-family residential properties and determining, for a specific site, how many of those buffers overlap the water resource."
 
-Street trees and green infrastructure enhance aesthetic qualities and provide a significant neighborhood amenity. Properties on tree-lined streets are valued at up to 30% more than those on streets without trees (Global Designing Cities Initiative, https://globaldesigningcities.org/publication/global-street-design-guide/utilities-and-infrastructure/green-infrastructure-stormwater-management/benefits-green-infrastructure/). 
+"Street trees and green infrastructure enhance aesthetic qualities and provide a significant neighborhood amenity. Properties on tree-lined streets are valued at up to 30% more than those on streets without trees" ("Benefits of Green Infrastructure”). 
 
-Added value to adjacent homes, businesses and tax base. Realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value. This often adds to the base tax base and operations budgets of a city allowing for added street maintenance. Future economic analysis may determine that this is a break-even for city maintenance budgets (Burden, D, 2006).
+"Realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value. This often adds to the base tax base and operations budgets of a city allowing for added street maintenance. Future economic analysis may determine that this is a break-even for city maintenance budgets" (Burden, 2006).
 
 Below is how people see the impact of green infrastructure on property value increase for investment.
 ![Source: Mell et al. (2013)](property.png)
 
 
-Tyra¨vinen and Miettinen (2000) conduct a careful study of the spillover effects of the various attributes associated with urban forests on housing prices in a semi-rural area in Finland. They find that the distance to the nearest small area of forest has a negative and significant effect, and that the presence of a forest view from the housing unit has a positive influence...Given the conditions within the Maryland study area, which are characterized by relatively high rates of population growth and land conversion, we find that the marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned (Irwin, E. G., 2002).
+"Tyra¨vinen and Miettinen (2000) conduct a careful study of the spillover effects of the various attributes associated with urban forests on housing prices in a semi-rural area in Finland. They find that the distance to the nearest small area of forest has a negative and significant effect, and that the presence of a forest view from the housing unit has a positive influence...Given the conditions within the Maryland study area, which are characterized by relatively high rates of population growth and land conversion, we find that the marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002).
 
-Consequently the neighborhoods in which they are built will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales (O’Neill, P. (2013). 
+"Consequently the neighborhoods in which they are built will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales" (O’Neill, 2013). 
 
-### Anderson, J. H. (2018). “Analysis and Classification of Semi-Arid Bioswales.”
-
-> Additional benefits of bioswales include growth of vegetation, which has been shown to improve asphalt longevity (McPherson, 2005), mitigate the urban heat island effect, and improve local property values (Bowman, 2010).
+Anderson (2018) mentioned, "Additional benefits of bioswales include growth of vegetation, which has been shown to improve asphalt longevity (McPherson, 2005), mitigate the urban heat island effect, and improve local property values (Bowman, 2010)."
 
 ### Bowman, T., Tyndall, J. C., Thompson, J., Kliebenstein, J., and Colletti, J. P. (2012). “Multiple approaches to valuation of conservation design and low-impact development features in residential subdivisions.” Journal of Environmental Management, 104, 101–113.
 
@@ -183,13 +181,37 @@ Consequently the neighborhoods in which they are built will see an increase in p
 > Finally, a spatial hedonic price model using 2093 homes in Ames, IA was used to estimate the effect of public and private open space on housing values. The model indicated that presence of neighborhood association-owned forest and water features as well as proximity to public parks had significant positive effects on housing prices. However, proximity to a public lake had a negative effect on home values.
 
 
-## Negative 
+## Negative impacts on property values
 
-Portland, Oregon has a long history of developing low-impact development facilities through its ‘green streets’ program and continues to promote these facilities as improving air and water quality, enhancing pedestrian and bicycle access and safety, expanding the amount of urban green space and wildlife habitat, and increasing property values (Environmental Services City of Portland, 2008). Findings from the present study provide support for some of these claims but challenge others. For example, we find a small but statistically significant increase in a property's sale price as distance from the nearest facility increases. Facility type (sidewalk bioswale, corner curb extension, curb extension, or grassy bioswale) is not found to have a statistically significant effect on a property's sale price, but a facility's size, age, design complexity, tree canopy coverage, and abundance of facilities at the census tract or census block level do have a statistically significant effect (Netusil et al., 2014).
+On the other hand, Netusil et al. (2014) mentioned, "Portland, Oregon has a long history of developing low-impact development facilities through its ‘green streets’ program and continues to promote these facilities as improving air and water quality, enhancing pedestrian and bicycle access and safety, expanding the amount of urban green space and wildlife habitat, and increasing property values (Environmental Services City of Portland, 2008). Findings from the present study provide support for some of these claims but challenge others. For example, we find a small but statistically significant increase in a property's sale price as distance from the nearest facility increases. Facility type (sidewalk bioswale, corner curb extension, curb extension, or grassy bioswale) is not found to have a statistically significant effect on a property's sale price, but a facility's size, age, design complexity, tree canopy coverage, and abundance of facilities at the census tract or census block level do have a statistically significant effect."
 
 # Reference 
 
 ## Displacement 
+
+Cohen, M., and Pettit, K. L. S. (2019). “Guide to Measuring Neighborhood Change to Understand and Prevent Displacement.” 32.
+
+“Gentrification Mapping Methodology.” (2020). The uprooted project, <https://sites.utexas.edu/gentrificationproject/gentrification-mapping-methodology/> (Aug. 17, 2020).
+
+
+“Indianapolis Gentrification Maps and Data.” (2015). <https://www.governing.com/gov-data/indianapolis-gentrification-maps-demographic-data.html> (Aug. 17, 2020).
+
+Jaffe, E. (2020). “The challenges of mapping gentrification.” Medium, <https://medium.com/sidewalk-talk/the-challenges-of-mapping-gentrification-851c13df5b9e> (Aug. 17, 2020).
+
+Preis, B., Janakiraman, A., Bob, A., and Steil, J. (2020). “Mapping gentrification and displacement pressure: An exploration of four distinct methodologies.” Urban Studies, 004209802090301.
+
+“Purple Line Corridor.” (2020). <http://knaaptime.com/plcc-dashboard/gentrification.html> (Aug. 17, 2020).
+
+“Seattle is the third most gentrifying U.S. city — but that might not be as bad as you think, study finds.” (2019). The Seattle Times, <https://www.seattletimes.com/seattle-news/data/seattle-ranks-near-top-for-gentrification-but-that-might-not-be-as-bad-as-you-think-study-finds/> (Aug. 17, 2020).
+
+“Urban Displacement San Francisco Map | Urban Displacement Project.” (2020). <https://www.urbandisplacement.org/map/sf> (Aug. 17, 2020).
+
+“Urban Displacement Austin Map | Urban Displacement Project.” (2020). <https://www.urbandisplacement.org/map/austin> (Aug. 17, 2020).
+
+“Where is Gentrification Happening in Your City?” (2017). Data-Smart City Solutions, <https://datasmart.ash.harvard.edu/news/article/where-is-gentrification-happening-in-your-city-1055> (Aug. 17, 2020).
+
+Yonto, D., and Schuch, C. (2020). “Developing and Ground-Truthing Multi-Scalar Approaches to Mapping Gentrification.” Papers in Applied Geography, Routledge, 0(0), 1–17.
+
 
 https://sites.utexas.edu/gentrificationproject/gentrification-mapping-methodology/
 
@@ -228,6 +250,9 @@ https://www.urbandisplacement.org/map/austin
 https://www.urbandisplacement.org/sites/default/files/images/udpaustin_methodology.pdf
 
 https://www.housingstudies.org/blog/mapping-neighborhood-change/
+
+
+
 
 ## Impact of green infrastructure on property value 
 
