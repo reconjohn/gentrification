@@ -177,8 +177,8 @@ Netusil (2013) mentioned, "Using the spatial lag model coefficients...transferri
 
 "Realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value. This often adds to the base tax base and operations budgets of a city allowing for added street maintenance. Future economic analysis may determine that this is a break-even for city maintenance budgets" (Burden, 2006).
 
-Below is how people see the impact of green infrastructure on property value increase for investment.
-![Source: Mell et al. (2013)](property.png)
+Below is how people see the impact of green infrastructure on property value increase for investment (Mell et al., 2013).
+![Source: Mell et al., 2013](property.png)
 
 
 "Tyra¨vinen and Miettinen (2000) conduct a careful study of the spillover effects of the various attributes associated with urban forests on housing prices in a semi-rural area in Finland. They find that the distance to the nearest small area of forest has a negative and significant effect, and that the presence of a forest view from the housing unit has a positive influence...Given the conditions within the Maryland study area, which are characterized by relatively high rates of population growth and land conversion, we find that the marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002).
