@@ -177,7 +177,8 @@ Netusil (2013) mentioned, "Using the spatial lag model coefficients...transferri
 
 "Realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value. This often adds to the base tax base and operations budgets of a city allowing for added street maintenance. Future economic analysis may determine that this is a break-even for city maintenance budgets" (Burden, 2006).
 
-Below is how people see the impact of green infrastructure on property value increase for investment (Mell et al., 2013).
+Below is how people see the impact of green infrastructure on property value increase for investment.
+
 ![Source: Mell et al., 2013](property.png)
 
 
