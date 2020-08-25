@@ -38,17 +38,17 @@ Predictive variables for gentrification and displacement are examined to answer 
 
 (1) Will improvements to a neighborhood – through green infrastructure or creating a public open space – cause the area to gentrify and displace current residents?
 
-It depends on how to define gentrification. Gentrification is a process and defined differently using various indicators. For example, Seattle defines gentrification with low income and education increase while Indianapolis defines it with low income and growth in home value and education. Furthermore, eviction could be considered as a symptom, the result of gentrification, but also it could be an indicator to define gentrification in that indicators and causes are different. In general, gentrification caused by neighborhood change leads to involuntary displacement of residents. Thus, it is important to know what factors change neighborhood condition. In addition, what kind of infrastructure would be installed, is also another factor to the degree of neighborhood change. Having green infrastructure positively affects living quality of the neighborhood, thus increases the value of real estate around. 
+It depends on how to define gentrification. Gentrification is a process, which is defined differently using various indicators. For example, a study for Seattle defined gentrification with low income and education increase while other study for Indianapolis did it with low income and growth in home value and education. Furthermore, the result of gentrification, for example eviction, could be the indicator to define gentrification in that indicators and causes could be different. In general, gentrification caused by neighborhood change leads to involuntary displacement of residents. Thus, it is important to know what factors change neighborhood condition. In addition, what kind of infrastructure would be installed, is also another factor to the degree of neighborhood change. Having green infrastructure positively affects living quality of the neighborhood, thus increases the value of real estate around. 
 
 To answer the question, which neighborhood the green infrastructure would be located in should be identified. For example, based on the categories described in "The uprooted project", if the infrastructure is located in early type 1 tracts, where mostly low income households are with high increase of appreciation of housing market, housing the infrastructure in the tract would expedite the appreciation. On the other hand, if the infrastructure is located in early type 2 tracts, where demographic change is going on with low increase of appreciation, having the infrastructure would be a seed to housing market change. 
 
 (2) What causes areas to gentrify? Is it just a regional real estate function? Or its improvements like upzoning, bringing in light rail etc.?
 
-In general, investment regarding economic activities such as housing market, business, infrastructure, etc. leads to demographic and built environmental changes, which would cause gentrification, displacement and exclusion.
+Investment for economic activities such as housing market, business, infrastructure, etc. leads to demographic and built environmental changes, which would cause gentrification, displacement and exclusion.
 
-Suggested causes for gentrification - for the tracts with higher vulnerability (with respect to renters, education, income, and race), infrastructure investment or development will lead to demographic changes, and neighborhood condition, housing market, and economic changes. Capital investment on projects such as expanding urban village, developing business center for technology companies, establishing state public educational institutes, etc. will change the built environment and cause demographic change due to the job creation. This phenomenon will increase property value of housings adjacent to the development and finally property tax will increase. The state property tax in turn goes back to the City of Seattle for the further projects according to the capital improvement plan (CIP).
+Suggested causes for gentrification - for the tracts with higher vulnerability (with respect to renters, education, income, and race), would be infrastructure investment or development because this will lead to demographic changes, and neighborhood condition, housing market, and economic changes. Capital investment on projects such as expanding urban village, developing business center for companies, establishing state public educational institutes, etc. will change the built environment and cause demographic change due to the job creation. This phenomenon will increase property value of housings adjacent to the development and finally property tax will increase. The state property tax in turn goes back to the City of Seattle for the projects of further development according to the capital improvement plan (CIP).
 
-![Gentrification process](diagram.png)
+![Gentrification cycle](diagram.png)
 
 Four indicators are suggested with respect to the argument above:
 
@@ -61,19 +61,19 @@ Four indicators are suggested with respect to the argument above:
 
 Many studies have found green infrastructure has positive impacts on property values.
 
-* "transferring water resource to public ownership will increase a property’s sale price by 0.0353% for a wetland and 0.1177% for a stream" (Netusil, 2013); 
+* "Transferring water resource to public ownership will increase a property’s sale price by 0.0353% for a wetland and 0.1177% for a stream" (Netusil, 2013); 
 
-* "properties on tree-lined streets are valued at up to 30% more than those on streets without trees" ("Benefits of Green Infrastructure”); 
+* "Properties on tree-lined streets are valued at up to 30% more than those on streets without trees" ("Benefits of Green Infrastructure”); 
 
-* "realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value" (Burden, 2006); 
+* "Realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value" (Burden, 2006); 
 
-* 25% of survey participants see increasing property values (Mell et al., 2013); 
+* 25 percent of survey participants see increasing property values (Mell et al., 2013); 
 
-* "marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002); 
+* "Marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002); 
 
-* "the effect of neighborhood association-owned forest and water feature was approximately 8% at the mean sale price with a value of \$14488 for association-owned forests, and \$14681 for a water feature" (Bowman et al., 2012); and 
+* "The effect of neighborhood association-owned forest and water feature was approximately 8% at the mean sale price with a value of \$14488 for association-owned forests, and \$14681 for a water feature" (Bowman et al., 2012); and 
 
-* "increase in home price is approximately \$18 for every acre of public park within walking distance" (Bowman et al., 2012). 
+* "Increase in home price is approximately \$18 for every acre of public park within walking distance" (Bowman et al., 2012). 
 
 Specially bioswales are also known to improve local property values (Anderson, 2018). O'Neill (2013) mentioned that "the neighborhoods will see an increase in property values and habitability due both the functional and aesthetic value of the bioswales." Furthermore, Ward et al., (2008) argued that the property value of the green grid in north Seattle (on street bioswales) increases about 3.5 to 5 percent.
 
@@ -81,19 +81,19 @@ In addition, Gurdon and Jakuba (2018) shows two cases which prove increase of pr
 
 (4) What factors contribute to increased property values?
 
-CIP and private venture capital investments seem to increase property values by developing local infrastructure serving citizens. In addition, proximity to jobs and nature could be also increasing property values. Jobs are normally created by capital investments and accommodating companies. Increased property value causes higher property tax, which becomes the revenue to CIPs.
+CIP and private venture capital investments seem to increase property values by developing local infrastructure which serves citizens. In addition, proximity to jobs and nature could be also increasing property values. Jobs are normally created by capital investments and accommodating companies. Increased property value causes higher property tax, which becomes the revenue to CIPs.
 
-Housing market trend would be the one relevant to our research in gentrification. And housing market trends seem to follow venture capital investment. In this regard, venture capital could be a cause of gentrification on tracts with higher vulnerability.
+Housing market trend would be relevant to gentrification. And housing market trends seem to follow venture capital investment. In this regard, venture capital could be a cause of gentrification on tracts with higher vulnerability.
 
-It seems properties around Green lake, Roosevelt reservoir, waterfront view, etc. are higher on the premise of the fact that they are close to downtown where most of the business activities are happening. So It can be clearly assumed that the proper indicators for gentrification are the combination of the close distance to the business or commercial center and natural benefits such as park, waterfront view, etc. Additionally, there is higher demand for student housing around campus, the housing values around campus(e.g., UW has over 40,000 students) also seem higher from the perspective of source of income from renting.
+Property values around Green lake, Roosevelt reservoir, waterfront view, etc. are higher on the premise of the fact that they are close to downtown where most of the business activities are happening. So It can be clearly assumed that the proper indicators for gentrification are the combination of the close distance to the business or commercial center and natural benefits such as park, waterfront view, etc. Additionally, because there is higher demand for student housing around campus, the housing values around campus(e.g., UW has over 40,000 students) also seem higher from the perspective of source of income from renting.
 
 # Displacement
 
 ## Definition of gentrification 
 
-Gentrification is a process and defined differently using various indicators. For example, Seattle defines gentrification with low income and education increase while Indianapolis defines it with low income and growth in home value and education. Furthermore, eviction could be considered as a symptom, the result of gentrification, but also it could be an indicator to define gentrification in that indicators and causes are different. 
+Gentrification is a process, which is defined differently using various indicators. For example, a study for Seattle defined gentrification with low income and education increase while other study for Indianapolis did it with low income and growth in home value and education. Furthermore, the result of gentrification, for example eviction, could be the indicator to define gentrification in that indicators and causes could be different. 
 
-Suggested causes for gentrification - for the tracts with vulnerability (renters, education, income, and race), infrastructure investment or development will lead to demographic changes, neighborhood condition, housing market, and economic changes. 
+Suggested causes for gentrification - for the tracts with higher vulnerability (with respect to renters, education, income, and race), would be infrastructure investment or development because this will lead to demographic changes, and neighborhood condition, housing market, and economic changes. 
 
 - Neighborhood change - "Broad term used to capture the full spectrum of economic, racial or ethnic, and structural changes in a geographic area, both positive and negative. Neighborhood revitalization is a related term that implies change viewed as positive, usually accompanied by new public or private investment" (Cohen and Pettit, 2019).
 
@@ -104,7 +104,7 @@ Suggested causes for gentrification - for the tracts with vulnerability (renters
 
 ## Gentrification indicators (causes)
 
-There are the historical indications of displacement, such as "transportation investment, percent of rent-burdened households, and availability of affordable housing" (Bousquet, 2017). Those are divided into two categories: (1) demographic variables, and (2) physical variables. 
+There are historical indications of displacement, such as "transportation investment, percent of rent-burdened households, and availability of affordable housing" (Bousquet, 2017). Those are divided into two categories: (1) demographic variables, and (2) physical variables. 
 
 Yonto and Schuch (2020) mentioned that "gentrification patterns may vary based on the definition, spatial unit, and variables used to identify gentrification. Combining demographic and physical factors drawing on both the physical and sociodemographic variables and combining qualitative and quantitative methods to produce a more holistic consideration of complex socio-spatial phenomena (i.e., gentrification) would be helpful."
 
@@ -123,11 +123,11 @@ Yonto and Schuch (2020) mentioned that "gentrification patterns may vary based o
 
 ## Various presentation of gentrification
 
-Different data inputs create different analysis outputs. For example, a study about Seattle identified "10,000 census tracts in 100 large cities that had incomes below the area median in 2000 — these tracts were deemed “gentrifiable.” These tracts experienced the biggest increase in the percentage of college-educated residents by the 2010-2014 period. The tracts that were in the top 10% for this increase were identified as gentrifying." (“Seattle is the third," 2019). 
+Different data inputs create different analysis outputs. For example, a study for Seattle identified "10,000 census tracts in 100 large cities that had incomes below the area median in 2000 — these tracts were deemed “gentrifiable.” These tracts experienced the biggest increase in the percentage of college-educated residents by the 2010-2014 period. The tracts that were in the top 10% for this increase were identified as gentrifying." (“Seattle is the third," 2019). 
 
 ![Source: “Seattle is the third," 2019 ](seattle2.jpg)
 
-On the other hand, a study about Indianapolis identified gentrifying tracts: 
+On the other hand, a study for Indianapolis identified gentrifying tracts: 
 
 - Low income with significant growth in home values and education, not gentrifying tracts 
 - Low income with no growth, and not eligible tracts 
@@ -142,7 +142,7 @@ Puget Sound Regional Council developed displacement risk mapping based on the fi
 
 ## Gentrification in Seattle
 
-Furthermore, a study about Seattle used opportunity index, "which identifies the level of economic opportunity in each neighborhood based on public data on education, access to jobs, transit availability, presence of civic infrastructure, and proximity to health facilities and healthy food. Combining displacement and opportunity ratings, Seattle categorized neighborhoods in four strata: high displacement risk/low access to opportunity, high displacement risk/high access to opportunity, low displacement risk/low access to opportunity, and low displacement risk/high access to opportunity." (“Where is Gentrification Happening,” 2017).
+Furthermore, a study for Seattle used opportunity index, "which identifies the level of economic opportunity in each neighborhood based on public data on education, access to jobs, transit availability, presence of civic infrastructure, and proximity to health facilities and healthy food. Combining displacement and opportunity ratings, Seattle categorized neighborhoods in four strata: high displacement risk/low access to opportunity, high displacement risk/high access to opportunity, low displacement risk/low access to opportunity, and low displacement risk/high access to opportunity." (“Where is Gentrification Happening,” 2017).
 
 ### Displacement index
 
@@ -179,28 +179,28 @@ Furthermore, a study about Seattle used opportunity index, "which identifies the
 
 ![Source: “Where is Gentrification Happening,” 2017](seattle1.png)
 
-Definitely, the two indexes share elements because the indexes are not mutually exclusive nor collectively exhaustive. I think this is common because a place with opportunities would be wanted by all so that this would incur displacement of some population. In the meantime, Displacement index focuses more on vulnerability while Opportunity index does on expected advantages. 
+The two indexes share elements because the indexes are not mutually exclusive nor collectively exhaustive. This is common because a place with opportunities would be wanted so that this would incur displacement of some population. In the meantime, Displacement index focuses more on vulnerability while Opportunity index does on expected advantages. 
 
 ![Displacement and Opportunity indexes)](seattleindex.png)
 
 Seattle categorized neighborhoods in four strata: high displacement risk/low access to opportunity, high displacement risk/high access to opportunity, low displacement risk/low access to opportunity, and low displacement risk/high access to opportunity.” (“Where is Gentrification Happening,” 2017).
 
-Furthermore, there are places with lower Displacement and Opportunity indexes such as West Seattle Junction, and Morgan Junction as indicated below figure. So I think the two indexes are still useful to analyze gentrification with identification of places in Seattle. 
+There are places with lower Displacement and Opportunity indexes such as West Seattle Junction, and Morgan Junction as indicated below figure. The two indexes are useful to analyze gentrification with identification of places in Seattle. 
 
 ![Displacement and Opportunity indexes (Source: "Seattle 2035 Your City, Your Future," 2015)](oprt.png)
 
 
 ## Categorizing 
 
-In general, based on the income level and changes of demographic and physical variables, gentrification could be identified with a level of being at risk and ongoing gentrification. 
+Based on the income level and changes of demographic and physical variables, gentrification could be identified with whether is is at risk or ongoing gentrification. 
 
-* Low income - no change, at risk (having development factors), ongoing gentrification(loss of low income households)
+* Low income categories - no change, at risk (having development factors), ongoing gentrification(loss of low income households)
 
-* Moderate and high income - advanced gentrification, no change, at risk, ongoing, advanced exclusion (low income migration rate) 
+* Moderate and high income categories - advanced gentrification, no change, at risk, ongoing, advanced exclusion (low income migration rate) 
 
 ![Source: “Urban Displacement San Francisco Map | Urban Displacement Project,” 2020](ca.jpg)
 
-A study specifying the above divided the patterns into six categories: susceptible, early type 1, type 2, dynamic, late and Continued Loss tracts ( non-vulnerable tracts) based on demographic change, real estate value, and appreciation. 
+A study specifying the patterns described above into six categories: susceptible, early type 1, type 2, dynamic, late and Continued Loss tracts ( non-vulnerable tracts) based on demographic change, real estate value, and appreciation. 
 
 ![Source: "Gentrification Mapping Methodology,” 2020](gent1.png)
 
@@ -210,16 +210,16 @@ A study specifying the above divided the patterns into six categories: susceptib
 
 ## Challenges 
 
-There is a study comparing four methods of mapping gentrification. They showed different analysis outputs that the result would be different depending upon which method used. However, there was one variable which the models agreed that all at-risk area had a greater share of evictions. Furthermore, only two variables (i.e., income and education) were shared in all four methods. 
+There is a study comparing the four methods of mapping gentrification. They showed different analysis outputs that the result would be different depending upon which method was used. However, there was one variable which the models agreed that all at-risk area had a greater share of evictions. Furthermore, only two variables (i.e., income and education) were shared in all four methods. 
 
 ![Source: Preis et al., 2020](combine.jpeg)
 
 
 ## Suggested indicators
 
-The main indicator for gentrification is public and private investment because it leads to built environment change followed by demographic change. Capital investment on projects such as expanding urban village, developing business center for tech. companies, establishing state public educational institutes, etc. will change the built environment and cause demographic change due to the job creation. This phenomenon will increase property value of housings adjacent to the development and finally property tax will increase. The state property tax in turn goes back to the City of Seattle for the further projects according to the capital improvement plan (CIP). 
+The main indicator for gentrification is public and private investment because it leads to built environment change followed by demographic change. Capital investment on projects such as expanding urban village, developing business center for companies, establishing state public educational institutes, etc. will change the built environment and cause demographic change due to the job creation. This phenomenon will increase property value of housings adjacent to the development and finally property tax will increase. The state property tax in turn goes back to the City of Seattle for the projects of further development according to the capital improvement plan (CIP).
 
-![Gentrification process](diagram.png)
+![Gentrification cycle](diagram.png)
 
 Four indicators are suggested with respect to the argument above: 
 
@@ -228,10 +228,7 @@ Four indicators are suggested with respect to the argument above:
 - Proximity to jobs and nature (university, companies, waterfront, etc.) 
 - Higher housing value
 
-There are other indicators such as distance to mess transportation, hospital, etc. But currently it is assumed to be less significant compared to the suggested four indicators. If time allows, regression models could be performed to test the significance of the indicators to explain gentrification and displacement. 
-
-
-
+There are other indicators such as distance to mess transportation, hospital, etc. But currently those are assumed to be less significant compared to the suggested four indicators. If time allows, regression models could be performed to test the significance of the indicators to explain gentrification and displacement. 
 
 
 ## Presentation of gentrification
@@ -260,11 +257,15 @@ Infrastructure is also playing a significant role in gentrification. A study map
 
 ### Mapping 
 
-A study found mapping based on smaller scale such as parcel level rather than tracts is more accurate and preferred. Furthermore, density mapping such as kernel density version of the tax parcel maps were found to be preferred to point and census tract maps. 
+Yonto and Schuch (2020) found mapping based on smaller scale such as parcel level rather than tracts is more accurate and preferred. Furthermore, density mapping such as kernel density version of the tax parcel maps were found to be preferred to point and census tract maps. 
 
 ![Source: Yonto and Schuch, 2020](den.jpeg)
 
-# Property values and property taxes
+# Factors increasing property values
+
+CIP and private venture capital investments seem to increase property values by developing local infrastructure which serves citizens. In addition, proximity to jobs and nature could be also increasing property values. Jobs are normally created by capital investments and accommodating companies. Increased property value causes higher property tax, which becomes the revenue to CIPs.
+
+## Property values and property taxes
 
 Appreciation of property - the appraisal process will help us understand what indicators they look at when they value a house. Market trends, similar type of the property in neighbor, and the condition of the house are affecting how values are determined. 
 
@@ -274,7 +275,7 @@ Appreciation of property - the appraisal process will help us understand what in
 
 "Seattle, Washington is without doubt one of the hottest real estate markets in the country right now. It has been for a while. High demand and limited inventory have forced home buyers to compete fiercely, especially in the more sought-after areas. As a result of these trends, the median home price in Seattle recently rose to $755,600" ("Seattle 2020 Mortgage," 2020). 
 
-The trend of land value shows that areas near business regions, where big companies and commercial districts are located, have higher land values. 
+The trend of land value shows that areas near business regions, where companies and commercial districts are located, have higher land values. 
 
 ![Land value in sqft in Seattle (Source: city-data.com)](land.png)
 
@@ -283,11 +284,7 @@ On the other hand, median house value changes since 2000 show distinguishable ar
 ![Median house value change since 2000 in Seattle (Source: city-data.com)](valuechange.png)
 
 
-## Factors increasing property values
-
-CIP and private venture capital investments seem to increase property values by developing local infrastructure serving citizens. In addition, proximity to jobs and nature could be also increasing property values. Jobs are normally created by capital investments and accommodating companies. Increased property value causes higher property tax, which becomes the revenue to CIPs. 
-
-### Capital improvement plan
+## Capital improvement plan
 
 "A capital improvement plan (CIP), or capital improvement program, is a short-range plan, usually four to ten years, which identifies capital projects and equipment purchases, provides a planning schedule and identifies options for financing the plan" ("Capital improvement plan," 2020).
 
@@ -310,7 +307,7 @@ Property tax is also a source of fund for the local CIPs. "The passage of the Pa
 
 "The average effective property tax rate in King County is 0.95%. It's also the county with the state's highest median annual property tax payment at \$4,254. In Seattle, the total rate is about \$8.29 per $1,000 in assessed value" ("Washington state property," 2020). 
 
-25% of property taxes in Seattle in 2018 went to the city while serving other purposes. 
+25% of property taxes in Seattle in 2018 went to the city while rest of property taxes were used for other purposes. 
 
 ![Tax uses (Source: "Herbold: Where do your property taxes go?," 2018)](taxuse.png)
 
@@ -319,18 +316,18 @@ Property tax contributes 24.5 percent to the general subfund in Seattle.
 ![General subfudn revenue in 2018 (Source: "Herbold: Where do your property taxes go?," 2018)](subfund.png)
 
 
-### Venture capital 
+## Venture capital 
 
-Housing market trend would be the one relevant to our research in gentrification. And housing market trends seem to follow venture capital investment. In this regard, venture capital could be a cause of gentrification on tracts with higher vulnerability.
+Housing market trend would be relevant to gentrification. And housing market trends seem to follow venture capital investment. In this regard, venture capital could be a cause of gentrification on tracts with higher vulnerability.
 
 ![Housing prices in Seattle](homeprice.jpg)
 
 
 ![Venture capital in Seattle (Source: "Seattle on pace," 2019)](capital.jpg)
 
-### Proximity to jobs and nature 
+## Proximity to jobs and nature 
 
-It seems properties around Green lake, Roosevelt reservoir, waterfront view, etc. are higher on the premise of the fact that they are close to downtown where most of the business activities are happening. So It can be clearly assumed that the proper indicators for gentrification are the combination of the close distance to the business or commercial center and natural benefits such as park, waterfront view, etc. Additionally, there is higher demand for student housing around campus, the housing values around campus(e.g., UW has over 40,000 students) also seem higher from the perspective of source of income from renting.
+Property values around Green lake, Roosevelt reservoir, waterfront view, etc. are higher on the premise of the fact that they are close to downtown where most of the business activities are happening. So It can be clearly assumed that the proper indicators for gentrification are the combination of the close distance to the business or commercial center and natural benefits such as park, waterfront view, etc. Additionally, because there is higher demand for student housing around campus, the housing values around campus(e.g., UW has over 40,000 students) also seem higher from the perspective of source of income from renting.
 
 ![Sales prices for houses in Seattle in 2017](saleprice.png)
 
@@ -338,19 +335,19 @@ It seems properties around Green lake, Roosevelt reservoir, waterfront view, etc
 
 Many studies have found green infrastructure has positive impacts on property values: 
 
-(1) "transferring water resource to public ownership will increase a property’s sale price by 0.0353% for a wetland and 0.1177% for a stream" (Netusil, 2013); 
+(1) "Transferring water resource to public ownership will increase a property’s sale price by 0.0353% for a wetland and 0.1177% for a stream" (Netusil, 2013); 
 
-(2) "properties on tree-lined streets are valued at up to 30% more than those on streets without trees" ("Benefits of Green Infrastructure”); 
+(2) "Properties on tree-lined streets are valued at up to 30% more than those on streets without trees" ("Benefits of Green Infrastructure”); 
 
-(3) "realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value" (Burden, 2006); 
+(3) "Realtor based estimates of street tree versus non street tree comparable streets relate a $15-25,000 increase in home or business value" (Burden, 2006); 
 
 (4) 25% of survey participants see increasing property values (Mell et al., 2013); 
 
-(5) "marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002); 
+(5) "Marginal benefits to one household of preserving neighboring open space range from \$994 to \$3,307 per acre of farmland that is preserved, depending on whether it is publicly or privately owned" (Irwin, 2002); 
 
-(6) "the effect of neighborhood association-owned forest and water feature was approximately 8% at the mean sale price with a value of \$14488 for association-owned forests, and \$14681 for a water feature" (Bowman et al., 2012); and 
+(6) "The effect of neighborhood association-owned forest and water feature was approximately 8% at the mean sale price with a value of \$14488 for association-owned forests, and \$14681 for a water feature" (Bowman et al., 2012); and 
 
-(7) "increase in home price is approximately \$18 for every acre of public park within walking distance" (Bowman et al., 2012). 
+(7) "Increase in home price is approximately \$18 for every acre of public park within walking distance" (Bowman et al., 2012). 
 
 "NDSs also generate broad public appeal and may even increase the property value of retrofitted neighborhoods" ("Incorporating Water Quality Features," 2020). 
 
@@ -404,12 +401,9 @@ In addition, Gurdon and Jakuba (2018) shows two cases which prove increase of pr
 ![Housing value trend (Source: Gurdon and Jakuba, 2018)](Falmouth.png)
 
 
-On the other hand, Netusil et al. (2014) found there is a negative impact on a property's sale price as distance from the nearest green infrastructure increases while bioswales are not significant.
-
-
 ## Negative impacts on property values
 
-On the other hand, Netusil et al. (2014) mentioned, "Portland, Oregon has a long history of developing low-impact development facilities through its ‘green streets’ program and continues to promote these facilities as improving air and water quality, enhancing pedestrian and bicycle access and safety, expanding the amount of urban green space and wildlife habitat, and increasing property values (Environmental Services City of Portland, 2008). Findings from the present study provide support for some of these claims but challenge others. For example, we find a small but statistically significant increase in a property's sale price as distance from the nearest facility increases. Facility type (sidewalk bioswale, corner curb extension, curb extension, or grassy bioswale) is not found to have a statistically significant effect on a property's sale price, but a facility's size, age, design complexity, tree canopy coverage, and abundance of facilities at the census tract or census block level do have a statistically significant effect."
+On the other hand, Netusil et al. (2014) found there is a negative impact on a property's sale price as distance from the nearest green infrastructure increases while bioswales are not significant. Netusil et al. (2014) mentioned, "Portland, Oregon has a long history of developing low-impact development facilities through its ‘green streets’ program and continues to promote these facilities as improving air and water quality, enhancing pedestrian and bicycle access and safety, expanding the amount of urban green space and wildlife habitat, and increasing property values (Environmental Services City of Portland, 2008). Findings from the present study provide support for some of these claims but challenge others. For example, we find a small but statistically significant increase in a property's sale price as distance from the nearest facility increases. Facility type (sidewalk bioswale, corner curb extension, curb extension, or grassy bioswale) is not found to have a statistically significant effect on a property's sale price, but a facility's size, age, design complexity, tree canopy coverage, and abundance of facilities at the census tract or census block level do have a statistically significant effect."
 
 
 
